@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "TamL9E83OoLRkmq5dU6zdad3Uk2k0o823rX8FoelI2E=",
+  "Source": "EventScheduler.Server",
+  "BasePath": "_content/EventScheduler.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
